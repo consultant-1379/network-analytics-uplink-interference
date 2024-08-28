@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3465</product-id>
+	<feature-name>Ericsson-RAN-Uplink-Interference</feature-name>
+	<release>18B</release>
+	<system-area>Radio-Common/RAN Uplink Interference</system-area>
+    <datasource-guid>d0b7e00c-7ea5-40ad-ab35-37eefd1d78f2</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
